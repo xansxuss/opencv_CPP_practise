@@ -1,0 +1,5 @@
+/home/xanxus/workspaces/C_test/opencv/extractChannel_read_img/bulid/CMakeFiles/rebuild_cache.dir
+/home/xanxus/workspaces/C_test/opencv/extractChannel_read_img/bulid/CMakeFiles/edit_cache.dir
+/home/xanxus/workspaces/C_test/opencv/extractChannel_read_img/bulid/src/CMakeFiles/rebuild_cache.dir
+/home/xanxus/workspaces/C_test/opencv/extractChannel_read_img/bulid/src/CMakeFiles/edit_cache.dir
+/home/xanxus/workspaces/C_test/opencv/extractChannel_read_img/bulid/src/CMakeFiles/main.dir

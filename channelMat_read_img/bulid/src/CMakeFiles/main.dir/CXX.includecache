@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xanxus/workspaces/C_test/opencv/channelMat_read_imd/src/main.cpp
+iostream
+-
+opencv2/core/core.hpp
+-
+opencv2/opencv.hpp
+-
+opencv2/imgcodecs.hpp
+-
+opencv2/imgproc.hpp
+-
+

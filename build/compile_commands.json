@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/xanxus/workspaces/C_test/opencv/build/src",
+  "command": "/usr/bin/g++   -I/home/xanxus/workspaces/C_test/opencv/cap_img/lib -isystem /usr/local/include/opencv  -g   -o CMakeFiles/main.dir/main.o -c /home/xanxus/workspaces/C_test/opencv/cap_img/src/main.cpp",
+  "file": "/home/xanxus/workspaces/C_test/opencv/cap_img/src/main.cpp"
+}
+]

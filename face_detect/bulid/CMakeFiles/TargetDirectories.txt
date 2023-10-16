@@ -1,0 +1,5 @@
+/home/xanxus/workspaces/C_test/opencv/face_detect/bulid/CMakeFiles/rebuild_cache.dir
+/home/xanxus/workspaces/C_test/opencv/face_detect/bulid/CMakeFiles/edit_cache.dir
+/home/xanxus/workspaces/C_test/opencv/face_detect/bulid/src/CMakeFiles/rebuild_cache.dir
+/home/xanxus/workspaces/C_test/opencv/face_detect/bulid/src/CMakeFiles/edit_cache.dir
+/home/xanxus/workspaces/C_test/opencv/face_detect/bulid/src/CMakeFiles/main.dir

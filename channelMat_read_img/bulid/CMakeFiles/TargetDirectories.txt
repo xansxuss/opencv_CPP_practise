@@ -1,0 +1,5 @@
+/home/xanxus/workspaces/C_test/opencv/channelMat_read_imd/bulid/CMakeFiles/rebuild_cache.dir
+/home/xanxus/workspaces/C_test/opencv/channelMat_read_imd/bulid/CMakeFiles/edit_cache.dir
+/home/xanxus/workspaces/C_test/opencv/channelMat_read_imd/bulid/src/CMakeFiles/rebuild_cache.dir
+/home/xanxus/workspaces/C_test/opencv/channelMat_read_imd/bulid/src/CMakeFiles/edit_cache.dir
+/home/xanxus/workspaces/C_test/opencv/channelMat_read_imd/bulid/src/CMakeFiles/main.dir

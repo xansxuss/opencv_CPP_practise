@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xanxus/workspaces/C_test/opencv/face_detect/src/main.cpp
+opencv2/core.hpp
+/home/xanxus/workspaces/C_test/opencv/face_detect/src/opencv2/core.hpp
+iostream
+-
+opencv2/imgproc.hpp
+/home/xanxus/workspaces/C_test/opencv/face_detect/src/opencv2/imgproc.hpp
+opencv2/highgui.hpp
+/home/xanxus/workspaces/C_test/opencv/face_detect/src/opencv2/highgui.hpp
+opencv2/core/cuda.hpp
+-
+
